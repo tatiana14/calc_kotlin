@@ -1,4 +1,4 @@
-package org.jetbrains
+package org.jb
 class Parser {
 
     fun parse(str:String): LexemList {

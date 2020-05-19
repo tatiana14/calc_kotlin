@@ -1,4 +1,4 @@
-package org.jetbrains
+package org.jb
 enum class OperatorPriority {
     LOW, HIGH
 }

@@ -1,4 +1,4 @@
-package org.jetbrains
+package org.jb
 class LexemList(var lexems: List<ILexem>) {
 
 

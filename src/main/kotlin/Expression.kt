@@ -1,4 +1,4 @@
-package org.jetbrains
+package org.jb
 
 class Expression(var left: IExpression, var op: Operator, var right: IExpression): IExpression {
     override fun calculate(): Double {

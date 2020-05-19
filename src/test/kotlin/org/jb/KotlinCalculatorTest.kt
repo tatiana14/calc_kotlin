@@ -1,4 +1,4 @@
-package org.jetbrains
+package org.jb
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

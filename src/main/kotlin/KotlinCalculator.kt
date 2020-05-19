@@ -1,4 +1,4 @@
-package org.jetbrains
+package org.jb
 
 /*
 Create a simple calculator that given a string of operators (), +, -, *, / and numbers separated by spaces

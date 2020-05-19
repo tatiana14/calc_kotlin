@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "1.3.61"
 }
 
-group = "org.jetbrains"
+group = "org.jb"
 version = "1.0-SNAPSHOT"
 
 repositories {

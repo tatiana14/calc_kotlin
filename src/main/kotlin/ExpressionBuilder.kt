@@ -1,4 +1,4 @@
-package org.jetbrains
+package org.jb
 class ExpressionBuilder {
 
 
